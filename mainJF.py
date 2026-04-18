@@ -2,4 +2,7 @@ print("nieco")
 
 print("Hello world")
 
-# ahojte 
+# ahojte
+
+print("Hello world") 
+# ahoj ahoj
